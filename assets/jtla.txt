@@ -10,7 +10,7 @@
 1 Airbender's Reversal (TLA) 7 #Airbending #Insurgent 1
 1 Airbending Lesson (TLA) 8 #Aang #Airbending #Gliding 1
 1 Allies at Last (TLA) 164 #Earth Kingdom 1 #Earth Kingdom 2 #Earth-Rumble 2 #Kyoshi
-1 Animal Attendant (TLE) 128 #At The Zoo #Ramp
+1 Animal Attendant (TLE) 128 #At The Zoo
 1 Appa, Loyal Sky Bison (TLA) 9 #Aang #Airbending #Gliding 1 #Gliding 2 #Insurgent 1 #Insurgent 2
 1 Avatar Kyoshi, Earthbender (TLE) 130 #Kyoshi
 1 Avatar Roku, Firebender (TLE) 112 #Roku
@@ -23,7 +23,7 @@
 1 Bastion of Remembrance (TLE) 160 #Bounty Hunter 1 #Bounty Hunter 2
 1 Beetle-Headed Merchants (TLA) 86 #Bounty Hunter 1 #Hunting 1 #Hunting 2 #Ozai #Reinforced 1 #Relentless 2 #Siege Engines
 1 Benevolent River Spirit (TLA) 45 #Soaring 2 #Spirit
-1 Bison Whistle (TLE) 131 #At The Zoo #Draw
+1 Bison Whistle (TLE) 131 #At The Zoo
 1 Boar-q-pine (TLA) 124 #Iroh #Roku
 1 Bolt Bend (TLE) 163 #Iroh
 1 Boomerang Basics (TLA) 46 #Adaptive #Lessons 1 #Soaring 1 #Soaring 2
@@ -63,7 +63,7 @@
 1 Desperate Plea (TLE) 103 #Hunting 1 #Nightmares
 1 Destined Confrontation (TLA) 15 #Hei Bai 2
 1 Diligent Zookeeper (TLA) 171 #At The Zoo
-1 Diresight (TLE) 162 #Draw #Hunting 1 #Hunting 2
+1 Diresight (TLE) 162 #Hunting 1 #Hunting 2
 1 Dragon Moose (TLE) 235 #Firebending 1 #Sparky Sparky 2 #Zuko
 1 Dramatic Reversal (TLE) 158 #Adept 1 #Spirit
 1 Duelist's Heritage (TLE) 153 #Insurgent 2 #Swordmaster
@@ -74,7 +74,7 @@
 1 Earth Rumble (TLA) 174 #Earth-Rumble 1
 1 Earth Rumble Wrestlers (TLA) 218 #Earth-Rumble 1 #Earth-Rumble 2 #Powerful 1 #Sparky Sparky 1
 1 Earth Village Ruffians (TLA) 219 #Reinforced 2
-1 Earthbender Ascension (TLA) 175 #Earthbending 1 #Ramp
+1 Earthbender Ascension (TLA) 175 #Earthbending 1
 1 Earthbending Lesson (TLA) 176 #Bumi #Earthbending 1 #Earthbending 2
 1 Eel-Hounds (TLE) 250 #At The Zoo
 1 Elephant-Mandrill (TLE) 138 #At The Zoo #Cabbages #Kyoshi
@@ -177,7 +177,7 @@
 1 Many Partings (TLE) 169 #Cabbages
 1 Master Pakku (TLA) 63 #Adept 2 #Katara #Lessons 2
 1 Master Piandao (TLA) 28 #Swordmaster
-1 Master's Guidance (TLE) 141 #Draw #Earth-Rumble 1 #Earth-Rumble 2 #Learning 2
+1 Master's Guidance (TLE) 141 #Earth-Rumble 1 #Earth-Rumble 2 #Learning 2
 1 Match the Odds (TLE) 253 #Earth Kingdom 1
 1 Mechanical Glider (TLE) 256 #Alliance 1 #Alliance 2 #Earth Kingdom 1 #Soaring 1
 1 Merchant of Many Hats (TLA) 110 #Relentless 1 #Relentless 2 #Siege Engines
@@ -214,7 +214,7 @@
 1 Raven Eagle (TLA) 116 #Hunting 1 #Hunting 2
 1 Razor Rings (TLA) 33 #Alliance 2 #Insurgent 1 #Swordmaster
 1 Rebellious Captives (TLA) 191 #Earthbending 1 #Earthbending 2 #Earth-Rumble 1 #Learning 1 #Toph
-1 Reckless Blaze (TLE) 124 #Firebending 1 #Firebending 2 #Wipes
+1 Reckless Blaze (TLE) 124 #Firebending 1 #Firebending 2
 1 Rocky Rebuke (TLA) 193 #Bumi #Cabbages #Earthbending 1 #Earthbending 2 #Kyoshi #Learning 1 #Learning 2 #Toph
 1 Roku's Mastery (TLE) 243 #Firebending 1 #Roku
 1 Rough Rhino Cavalry (TLA) 152 #Firebending 2 #Musicians #Powerful 1
@@ -228,7 +228,7 @@
 1 Scarring Memories (TLE) 111 #Ozai
 1 Secret Tunnel (TLA) 278 #Musicians
 1 Serpent of the Pass (TLA) 70 #Adept 1 #Adept 2 #Underwater
-1 Shared Roots (TLA) 196 #Learning 1 #Ramp
+1 Shared Roots (TLA) 196 #Learning 1
 1 Smellerbee, Rebel Fighter (TLE) 125 #Rebelling 1 #Rebelling 2
 1 Sokka, Lateral Strategist (TLA) 241 #Alliance 1 #Alliance 2 #Insurgent 2 #Katara #Soaring 1 #Soaring 2 #Warriors #Wise 2
 1 Sokka, Swordmaster (TLE) 83 #Swordmaster
@@ -253,7 +253,7 @@
 1 Teo, Spirited Glider (TLA) 74 #Adaptive #Adept 2 #Soaring 1 #Soaring 2
 1 That's Rough Buddy (TLE) 87 #Hei Bai 1 #Hei Bai 2 #Insurgent 2
 1 The Art of Tea (TLE) 129 #Cabbages #Learning 2
-1 The Blue Spirit (TLE) 90 #Adaptive #Draw #Wise 2
+1 The Blue Spirit (TLE) 90 #Adaptive #Wise 2
 1 The Boulder, Ready to Rumble (TLA) 168 #Earth-Rumble 1 #Earth-Rumble 2
 1 The Cabbage Merchant (TLE) 134 #Cabbages
 1 The Cave of Two Lovers (TLA) 126 #Musicians
@@ -300,14 +300,78 @@
 1 Yue, the Moon Spirit (TLA) 83 #Soaring 2
 1 Yuyan Archers (TLA) 161 #Firebending 2 #Rebelling 1 #Roku #Sparky Sparky 2 #Zuko
 1 Zhao, Ruthless Admiral (TLA) 252 #Bounty Hunter 2 #Ozai #Relentless 2
-1 Zuko, Exiled Prince (TLA) 163 #Draw #Firebending 1 #Firebending 2 #Sparky Sparky 1 #Sparky Sparky 2
+1 Zuko, Exiled Prince (TLA) 163 #Firebending 1 #Firebending 2 #Sparky Sparky 1 #Sparky Sparky 2
 1 Zuko, Firebending Master (TLE) 127 #Zuko
 1 Zuko, Seeking Honor (TLE) 150 #Fire Nation #Iroh #Rebelling 1 #Rebelling 2 #Reinforced 1 #Reinforced 2
 1 Zuko's Conviction (TLA) 123 #Bounty Hunter 1 #Nightmares
 1 Zuko's Exile (TLA) 3 #Learning 1 #Learning 2 #Librarian
-2 Forest (TLA) 286 #Shrines
-1 Mountain (TLA) 285 #Shrines
 1 Island (TLA) 283 #Shrines
+1 Mountain (TLA) 285 #Shrines
 1 Plains (TLA) 282 #Shrines
 1 Swamp (TLA) 284 #Shrines
+2 Forest (TLA) 286 #Shrines
 6 Mountain (TLA) 285 #Musicians
+7 Forest (TLA) 286 #At The Zoo
+7 Forest (TLA) 286 #Bumi
+7 Forest (TLA) 286 #Cabbages
+7 Forest (TLA) 286 #Earth Kingdom 1
+7 Forest (TLA) 286 #Earth Kingdom 2
+7 Forest (TLA) 286 #Earth-Rumble 1
+7 Forest (TLA) 286 #Earth-Rumble 2
+7 Forest (TLA) 286 #Earthbending 1
+7 Forest (TLA) 286 #Earthbending 2
+7 Forest (TLA) 286 #Hei Bai 1
+7 Forest (TLA) 286 #Hei Bai 2
+7 Forest (TLA) 286 #Kyoshi
+7 Forest (TLA) 286 #Toph
+7 Island (TLA) 283 #Adaptive
+7 Island (TLA) 283 #Adept 1
+7 Island (TLA) 283 #Adept 2
+7 Island (TLA) 283 #Katara
+7 Island (TLA) 283 #Learning 1
+7 Island (TLA) 283 #Learning 2
+7 Island (TLA) 283 #Lessons 1
+7 Island (TLA) 283 #Lessons 2
+7 Island (TLA) 283 #Librarian
+7 Island (TLA) 283 #Soaring 1
+7 Island (TLA) 283 #Soaring 2
+7 Island (TLA) 283 #Spirit
+7 Island (TLA) 283 #Underwater
+7 Island (TLA) 283 #Wise 1
+7 Island (TLA) 283 #Wise 2
+7 Mountain (TLA) 285 #Fire Nation
+7 Mountain (TLA) 285 #Firebending 1
+7 Mountain (TLA) 285 #Firebending 2
+7 Mountain (TLA) 285 #Iroh
+7 Mountain (TLA) 285 #Powerful 1
+7 Mountain (TLA) 285 #Powerful 2
+7 Mountain (TLA) 285 #Rebelling 1
+7 Mountain (TLA) 285 #Rebelling 2
+7 Mountain (TLA) 285 #Relentless 1
+7 Mountain (TLA) 285 #Relentless 2
+7 Mountain (TLA) 285 #Roku
+7 Mountain (TLA) 285 #Siege Engines
+7 Mountain (TLA) 285 #Sparky Sparky 1
+7 Mountain (TLA) 285 #Sparky Sparky 2
+7 Mountain (TLA) 285 #Zuko
+7 Plains (TLA) 282 #Aang
+7 Plains (TLA) 282 #Airbending
+7 Plains (TLA) 282 #Alliance 1
+7 Plains (TLA) 282 #Alliance 2
+7 Plains (TLA) 282 #Freedom Fighters
+7 Plains (TLA) 282 #Gliding 1
+7 Plains (TLA) 282 #Gliding 2
+7 Plains (TLA) 282 #Insurgent 1
+7 Plains (TLA) 282 #Insurgent 2
+7 Plains (TLA) 282 #Reinforced 1
+7 Plains (TLA) 282 #Reinforced 2
+7 Plains (TLA) 282 #Swordmaster
+7 Plains (TLA) 282 #Warriors
+7 Swamp (TLA) 284 #Azula
+7 Swamp (TLA) 284 #Bad Advice
+7 Swamp (TLA) 284 #Bounty Hunter 1
+7 Swamp (TLA) 284 #Bounty Hunter 2
+7 Swamp (TLA) 284 #Hunting 1
+7 Swamp (TLA) 284 #Hunting 2
+7 Swamp (TLA) 284 #Nightmares
+7 Swamp (TLA) 284 #Ozai

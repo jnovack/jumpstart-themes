@@ -1,0 +1,104 @@
+name: Build and Release
+
+on:
+  push:
+    tags:
+      - "v*"
+  workflow_dispatch:
+
+permissions:
+  contents: write  # create GitHub Releases
+  pages: write     # deploy GitHub Pages
+  id-token: write  # OIDC token for Pages
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  # ─────────────────────────────────────────────────────────────────── build ──
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Set up Go
+        uses: actions/setup-go@v6
+        with:
+          go-version-file: go.mod
+          cache: true
+
+      - name: Build binary
+        run: make build
+
+      # ── Per-set asset generation ─────────────────────────────────────────────
+      - name: Generate assets for every set
+        run: |
+          mkdir -p _site _labels
+
+          for txt in assets/*.txt; do
+            code=$(basename "$txt" .txt)
+            CODE=$(echo "$code" | tr '[:lower:]' '[:upper:]')
+            echo "::group::Set $CODE"
+
+            # ── individual label PNGs ──────────────────────────────────────────
+            mkdir -p "_labels/$code"
+            ./bin/decklist-print --set "$code" --all "_labels/$code/"
+
+            # Zip labels for download
+            (cd _labels && zip -r "../_site/${CODE}.zip" "$code/")
+
+            # ── letter pages ───────────────────────────────────────────────────
+            # PNG first page → thumbnail shown on the site
+            mkdir -p "/tmp/${code}-pages"
+            ./bin/decklist-print --set "$code" --all-letter "/tmp/${code}-pages/"
+            first_page=$(ls "/tmp/${code}-pages/"*-letter-001.png 2>/dev/null | head -1)
+            [ -n "$first_page" ] && cp "$first_page" "_site/${code}-preview.png"
+
+            # Multi-page PDF for printing in the browser
+            ./bin/decklist-print --set "$code" --all-letter-pdf "_site/${code}-letter.pdf"
+
+            # Theme count for the site card
+            ./bin/decklist-print --set "$code" --list | wc -l > "_site/${code}-theme-count.txt"
+
+            echo "::endgroup::"
+          done
+
+      # ── GitHub Pages site ────────────────────────────────────────────────────
+      - name: Generate site HTML
+        run: |
+          python3 .github/scripts/gen_site.py \
+            --site-dir _site/ \
+            --version  "${{ github.ref_name }}" \
+            --repo     "${{ github.repository }}"
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: _site/
+
+      # ── GitHub Release (tags only) ────────────────────────────────────────────
+      - name: Create GitHub Release
+        if: startsWith(github.ref, 'refs/tags/')
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release create "${{ github.ref_name }}" \
+            --generate-notes \
+            --title "Release ${{ github.ref_name }}" \
+            _site/*.zip
+
+  # ──────────────────────────────────────────────────────────── deploy-pages ──
+  deploy-pages:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5
