@@ -1,0 +1,313 @@
+1 Aang, A Lot to Learn (TLE) 146 #Bumi #Hei Bai 1 #Hei Bai 2 #Learning 1 #Learning 2
+1 Aang, Airbending Master (TLE) 74 #Aang
+1 Aang, the Last Airbender (TLA) 4 #Airbending #Gliding 1 #Gliding 2 #Insurgent 1
+1 Aang's Journey (TLA) 1 #Shrines
+1 Aardvark Sloth (TLE) 212 #Hei Bai 2 #Swordmaster
+1 Accumulate Wisdom (TLA) 44 #Lessons 1 #Lessons 2 #Librarian
+1 Acrobatic Leap (TLE) 151 #Alliance 2 #Freedom Fighters #Hei Bai 1
+1 Air Nomad Student (TLE) 75 #Gliding 1 #Gliding 2
+1 Airbender Ascension (TLA) 6 #Airbending
+1 Airbender's Reversal (TLA) 7 #Airbending #Insurgent 1
+1 Airbending Lesson (TLA) 8 #Aang #Airbending #Gliding 1
+1 Allies at Last (TLA) 164 #Earth Kingdom 1 #Earth Kingdom 2 #Earth-Rumble 2 #Kyoshi
+1 Animal Attendant (TLE) 128 #At The Zoo #Ramp
+1 Appa, Loyal Sky Bison (TLA) 9 #Aang #Airbending #Gliding 1 #Gliding 2 #Insurgent 1 #Insurgent 2
+1 Avatar Kyoshi, Earthbender (TLE) 130 #Kyoshi
+1 Avatar Roku, Firebender (TLE) 112 #Roku
+1 Azula Always Lies (TLA) 84 #Azula #Hunting 2 #Reinforced 1 #Relentless 1 #Relentless 2
+1 Azula, On the Hunt (TLA) 85 #Bounty Hunter 1 #Bounty Hunter 2 #Nightmares #Relentless 1 #Relentless 2
+1 Azula, Ruthless Firebender (TLE) 101 #Azula
+1 Baboon Spirit (TLE) 89 #Spirit
+1 Badgermole (TLA) 166 #Bumi #Earthbending 2 #Toph
+1 Barrels of Blasting Jelly (TLA) 254 #Shrines
+1 Bastion of Remembrance (TLE) 160 #Bounty Hunter 1 #Bounty Hunter 2
+1 Beetle-Headed Merchants (TLA) 86 #Bounty Hunter 1 #Hunting 1 #Hunting 2 #Ozai #Reinforced 1 #Relentless 2 #Siege Engines
+1 Benevolent River Spirit (TLA) 45 #Soaring 2 #Spirit
+1 Bison Whistle (TLE) 131 #At The Zoo #Draw
+1 Boar-q-pine (TLA) 124 #Iroh #Roku
+1 Bolt Bend (TLE) 163 #Iroh
+1 Boomerang Basics (TLA) 46 #Adaptive #Lessons 1 #Soaring 1 #Soaring 2
+1 Bosco, Just a Bear (TLE) 132 #Cabbages #Earth-Rumble 2
+1 Brainstorm (TLE) 155 #Librarian
+1 Bumi Bash (TLA) 125 #Musicians #Rebelling 1 #Sparky Sparky 1
+1 Bumi, King of Three Trials (TLA) 169 #Bumi
+1 Bumi's Feast Lecture (TLE) 133 #Bumi #Cabbages
+1 Buzzard-Wasp Colony (TLA) 88 #Reinforced 1 #Reinforced 2 #Relentless 1
+1 Callous Inspector (TLA) 89 #Bounty Hunter 2 #Ozai #Reinforced 1 #Relentless 2 #Siege Engines
+1 Canyon Crawler (TLA) 90 #Azula #Nightmares #Ozai #Relentless 1 #Relentless 2 #Siege Engines
+1 Cat-Owl (TLA) 212 #Soaring 1 #Soaring 2
+1 Cathartic Reunion (TLE) 164 #Iroh #Powerful 1 #Powerful 2
+1 Chakra Meditation (TLE) 91 #Lessons 1 #Lessons 2
+1 Chong and Lily, Nomads (TLE) 113 #Musicians
+1 Cloudshift (TLE) 152 #Aang
+1 Coastal Piracy (TLE) 156 #Underwater #Wise 1
+1 Combustion Man (TLA) 127 #Powerful 2 #Sparky Sparky 1 #Sparky Sparky 2
+1 Combustion Technique (TLA) 128 #Firebending 2 #Sparky Sparky 1 #Sparky Sparky 2
+1 Consider (TLE) 157 #Adept 2 #Katara #Wise 1 #Wise 2
+1 Corrupt Court Official (TLA) 92 #Azula #Bad Advice #Ozai
+1 Cracked Earth Technique (TLE) 135 #Kyoshi #Learning 1 #Learning 2
+1 Crashing Wave (TLA) 47 #Adept 1
+1 Creeping Crystal Coating (TLE) 136 #Bumi
+1 Crescent Island Temple (TLA) 129 #Roku #Shrines
+1 Crystalline Armor (TLE) 137 #Bumi #Learning 1
+1 Cunning Maneuver (TLA) 130 #Fire Nation #Firebending 1 #Firebending 2 #Musicians #Rebelling 1
+1 Curious Farm Animals (TLA) 14 #Hei Bai 2
+1 Cycle of Renewal (TLA) 170 #Kyoshi
+1 Dai Li Censor (TLE) 102 #Azula #Bad Advice
+1 Dai Li Indoctrination (TLA) 93 #Azula #Bad Advice #Reinforced 1 #Reinforced 2
+1 Dark Deal (TLE) 161 #Azula
+1 Deadly Precision (TLA) 95 #Bad Advice #Bounty Hunter 1 #Bounty Hunter 2 #Hunting 1 #Hunting 2 #Nightmares #Ozai #Reinforced 2 #Relentless 2 #Siege Engines
+1 Deer-Dog (TLE) 114 #Sparky Sparky 1 #Sparky Sparky 2
+1 Descendants' Path (TLE) 167 #Earth Kingdom 1 #Earth Kingdom 2
+1 Deserter's Disciple (TLA) 131 #Iroh #Powerful 1 #Rebelling 2
+1 Desperate Plea (TLE) 103 #Hunting 1 #Nightmares
+1 Destined Confrontation (TLA) 15 #Hei Bai 2
+1 Diligent Zookeeper (TLA) 171 #At The Zoo
+1 Diresight (TLE) 162 #Draw #Hunting 1 #Hunting 2
+1 Dragon Moose (TLE) 235 #Firebending 1 #Sparky Sparky 2 #Zuko
+1 Dramatic Reversal (TLE) 158 #Adept 1 #Spirit
+1 Duelist's Heritage (TLE) 153 #Insurgent 2 #Swordmaster
+1 Dutiful Knowledge Seeker (TLE) 92 #Librarian #Spirit
+1 Earth Kingdom General (TLA) 173 #Earth Kingdom 2 #Earthbending 1 #Earthbending 2 #Toph
+1 Earth Kingdom Protectors (TLA) 17 #Swordmaster
+1 Earth Kingdom Soldier (TLA) 216 #Earth Kingdom 1 #Earth Kingdom 2 #Earthbending 1 #Earthbending 2 #Kyoshi #Toph
+1 Earth Rumble (TLA) 174 #Earth-Rumble 1
+1 Earth Rumble Wrestlers (TLA) 218 #Earth-Rumble 1 #Earth-Rumble 2 #Powerful 1 #Sparky Sparky 1
+1 Earth Village Ruffians (TLA) 219 #Reinforced 2
+1 Earthbender Ascension (TLA) 175 #Earthbending 1 #Ramp
+1 Earthbending Lesson (TLA) 176 #Bumi #Earthbending 1 #Earthbending 2
+1 Eel-Hounds (TLE) 250 #At The Zoo
+1 Elephant-Mandrill (TLE) 138 #At The Zoo #Cabbages #Kyoshi
+1 Elephant-Rat (TLE) 228 #Hunting 1 #Reinforced 1 #Reinforced 2
+1 Enter the Avatar State (TLA) 18 #Aang
+1 Epic Downfall (TLA) 96 #Azula #Hunting 1 #Reinforced 1
+1 Explore (TLE) 259 #Earthbending 1 #Earthbending 2
+1 Explosive Shot (TLE) 236 #Musicians #Rebelling 1 #Rebelling 2
+1 Fancy Footwork (TLA) 19 #Alliance 1 #Alliance 2
+1 Fang, Roku's Companion (TLE) 115 #Powerful 1 #Powerful 2 #Roku
+1 Fatal Fissure (TLA) 97 #Reinforced 2
+1 Feed the Swarm (TLE) 257 #Reinforced 1
+1 Fiery Confluence (TLE) 165 #Iroh
+1 Fire Lord Ozai (TLE) 104 #Ozai
+1 Fire Nation Ambushers (TLE) 229 #Azula #Bad Advice #Ozai #Relentless 1 #Relentless 2
+1 Fire Nation Attacks (TLA) 133 #Fire Nation #Firebending 2 #Rebelling 1 #Zuko
+1 Fire Nation Cadets (TLA) 134 #Firebending 1 #Firebending 2 #Sparky Sparky 1 #Sparky Sparky 2
+1 Fire Nation Engineer (TLA) 99 #Siege Engines
+1 Fire Nation Occupation (TLE) 105 #Relentless 1 #Relentless 2
+1 Fire Nation Raider (TLA) 135 #Powerful 1 #Powerful 2
+1 Fire Nation Salvagers (TLE) 106 #Reinforced 1 #Reinforced 2
+1 Fire Nation Warship (TLA) 256 #Siege Engines
+1 Fire Navy Trebuchet (TLA) 100 #Azula #Bounty Hunter 2 #Ozai #Siege Engines
+1 Fire Sages (TLA) 136 #Firebending 1 #Roku #Sparky Sparky 1
+1 Firebender Ascension (TLA) 137 #Firebending 1
+1 Firebending Lesson (TLA) 138 #Fire Nation #Firebending 1 #Firebending 2 #Iroh #Powerful 1 #Powerful 2 #Roku #Sparky Sparky 2 #Zuko
+1 Firebending Student (TLA) 139 #Fire Nation
+1 First-Time Flyer (TLA) 49 #Lessons 1
+1 Fists of Flame (TLE) 166 #Fire Nation #Zuko
+1 Flexible Waterbender (TLA) 50 #Spirit
+1 Flopsie, Bumi's Buddy (TLA) 179 #Bumi
+1 Flying Dolphin-Fish (TLE) 223 #Soaring 1 #Soaring 2 #Spirit #Underwater
+1 Foggy Swamp Hunters (TLA) 101 #Hunting 1 #Hunting 2
+1 Foggy Swamp Vinebender (TLA) 180 #Cabbages #Earth Kingdom 1
+1 Forecasting Fortune Teller (TLA) 51 #Adept 1 #Soaring 1 #Wise 1
+1 Founding of Omashu (TLE) 116 #Musicians
+1 Frantic Confrontation (TLE) 117 #Roku #Zuko
+1 Frantic Search (TLE) 159 #Adaptive #Soaring 2
+1 Freedom Fighter Recruit (TLE) 118 #Musicians #Powerful 2 #Rebelling 1 #Rebelling 2
+1 Frog-Squirrels (TLE) 251 #At The Zoo #Earthbending 2 #Earth-Rumble 2 #Toph
+1 Geyser Leaper (TLA) 52 #Adept 2 #Katara #Lessons 2
+1 Giant Fly (TLE) 107 #Bounty Hunter 1
+1 Giant Koi (TLA) 53 #Adaptive #Adept 1 #Lessons 1 #Librarian #Soaring 1 #Soaring 2 #Spirit #Underwater
+1 Gilacorn (TLE) 231 #Bad Advice #Hunting 2 #Reinforced 2
+1 Glider Kids (TLA) 21 #Adaptive #Airbending #Alliance 1 #Alliance 2 #Gliding 2 #Insurgent 1 #Insurgent 2 #Swordmaster
+1 Glider Staff (TLA) 22 #Gliding 1 #Gliding 2
+1 Gran-Gran (TLA) 54 #Katara #Lessons 1 #Lessons 2 #Wise 1
+1 Great Divide Guide (TLA) 181 #Earth Kingdom 2
+1 Guru Pathik (TLA) 223 #Learning 1 #Shrines
+1 Hakoda, Selfless Commander (TLA) 23 #Insurgent 2
+1 Hama, the Bloodbender (TLA) 224 #Bad Advice
+1 Haru, Hidden Talent (TLA) 182 #Earth Kingdom 1 #Earth Kingdom 2
+1 Heartless Act (TLA) 103 #Ozai #Reinforced 2 #Relentless 1 #Relentless 2 #Siege Engines
+1 Hei Bai, Forest Guardian (TLE) 139 #Shrines
+1 Hei Bai, Spirit of Balance (TLA) 225 #Hei Bai 1 #Hei Bai 2 #Nightmares
+1 Hippo-Cows (TLE) 252 #Cabbages #Earth Kingdom 1 #Earth Kingdom 2 #Earthbending 1 #Earth-Rumble 1
+1 Hog-Monkey (TLA) 104 #Reinforced 1 #Reinforced 2
+1 Hog-Monkey Rampage (TLE) 255 #At The Zoo #Earth-Rumble 1 #Earth-Rumble 2 #Powerful 2
+1 Honest Work (TLA) 55 #Underwater
+1 Hook Swords (TLE) 147 #Freedom Fighters #Rebelling 2
+1 How to Start a Riot (TLA) 140 #Fire Nation #Powerful 2 #Rebelling 1 #Rebelling 2 #Sparky Sparky 1
+1 Iguana Parrot (TLA) 56 #Adept 1 #Adept 2 #Lessons 1 #Lessons 2
+1 Inspired Insurgent (TLE) 77 #Alliance 2 #Freedom Fighters #Gliding 2 #Insurgent 1 #Insurgent 2 #Swordmaster
+1 Inspiring Call (TLE) 168 #Earthbending 1
+1 Invasion Reinforcements (TLA) 24 #Aang #Airbending #Hei Bai 1 #Insurgent 1 #Warriors
+1 Invasion Submersible (TLA) 57 #Underwater
+1 Iroh, Dragon of the West (TLE) 194 #Iroh
+1 Iroh's Demonstration (TLA) 141 #Iroh #Powerful 1 #Sparky Sparky 1
+1 It'll Quench Ya! (TLA) 58 #Katara #Lessons 1 #Spirit #Wise 2
+1 Jeong Jeong, the Deserter (TLA) 142 #Firebending 1 #Firebending 2 #Iroh #Roku
+1 Jeong Jeong's Deserters (TLA) 25 #Airbending #Freedom Fighters #Gliding 2 #Hei Bai 2 #Insurgent 1
+1 Jet, Freedom Fighter (TLA) 229 #Alliance 1 #Rebelling 1 #Rebelling 2
+1 Jet, Rebel Leader (TLE) 78 #Alliance 2 #Freedom Fighters
+1 Joo Dee, One of Many (TLA) 105 #Bad Advice #Nightmares #Relentless 2
+1 June, Bounty Hunter (TLA) 106 #Bounty Hunter 1 #Bounty Hunter 2 #Hunting 1 #Hunting 2
+1 Katara, Bending Prodigy (TLA) 59 #Adaptive #Adept 1 #Adept 2 #Wise 1
+1 Katara, Seeking Revenge (TLE) 148 #Hunting 1 #Hunting 2 #Lessons 1 #Lessons 2
+1 Katara, Waterbending Master (TLE) 93 #Katara
+1 Kindly Customer (TLE) 79 #Aang #Gliding 1
+1 Knowledge Seeker (TLA) 60 #Librarian #Spirit #Wise 2
+1 Koala-Sheep (TLE) 80 #Aang #Airbending #Gliding 1 #Hei Bai 1
+1 Koh, the Face Stealer (TLA) 107 #Nightmares
+1 Komodo Rhino (TLE) 241 #Powerful 2
+1 Kyoshi Battle Fan (TLA) 257 #Adaptive #Earth Kingdom 1 #Earth Kingdom 2 #Earth-Rumble 1 #Earth-Rumble 2 #Kyoshi #Swordmaster #Warriors
+1 Kyoshi Island Plaza (TLA) 184 #Shrines
+1 Kyoshi Warrior Exemplars (TLE) 140 #Kyoshi #Toph
+1 Kyoshi Warrior Guard (TLE) 216 #Alliance 1 #Insurgent 2 #Warriors
+1 Kyoshi Warriors (TLA) 26 #Aang #Alliance 1 #Alliance 2 #Insurgent 1 #Insurgent 2 #Warriors
+1 Leaves from the Vine (TLA) 185 #Cabbages
+1 Lightning Strike (TLA) 146 #Fire Nation #Firebending 1 #Zuko
+1 Lo and Li, Royal Advisors (TLE) 108 #Bad Advice
+1 Lo and Li, Twin Tutors (TLA) 108 #Azula
+1 Long Feng, Grand Secretariat (TLA) 233 #Bad Advice #Reinforced 1 #Reinforced 2
+1 Longshot, Rebel Bowman (TLE) 120 #Fire Nation #Rebelling 1 #Rebelling 2
+1 Lost Days (TLA) 62 #Adept 2 #Lessons 2
+1 Lost in Memories (TLE) 121 #Zuko
+1 Lost in the Spirit World (TLE) 224 #Adaptive #Librarian #Spirit
+1 Loyal Fire Sage (TLE) 242 #Firebending 1 #Firebending 2 #Roku
+1 Mai, Jaded Edge (TLA) 147 #Fire Nation #Zuko
+1 Many Partings (TLE) 169 #Cabbages
+1 Master Pakku (TLA) 63 #Adept 2 #Katara #Lessons 2
+1 Master Piandao (TLA) 28 #Swordmaster
+1 Master's Guidance (TLE) 141 #Draw #Earth-Rumble 1 #Earth-Rumble 2 #Learning 2
+1 Match the Odds (TLE) 253 #Earth Kingdom 1
+1 Mechanical Glider (TLE) 256 #Alliance 1 #Alliance 2 #Earth Kingdom 1 #Soaring 1
+1 Merchant of Many Hats (TLA) 110 #Relentless 1 #Relentless 2 #Siege Engines
+1 Messenger Hawk (TLA) 234 #Hunting 1 #Hunting 2 #Soaring 1 #Soaring 2 #Wise 1 #Wise 2
+1 Meteor Sword (TLA) 258 #Swordmaster
+1 Moku, Meandering Drummer (TLE) 122 #Firebending 2 #Musicians
+1 Momo, Friendly Flier (TLA) 29 #Gliding 1 #Gliding 2
+1 Momo, Rambunctious Rascal (TLE) 217 #Aang #Insurgent 1 #Insurgent 2
+1 Mongoose Lizard (TLA) 148 #Iroh #Musicians #Powerful 1 #Powerful 2 #Zuko
+1 Monk Gyatso (TLE) 81 #Airbending
+1 Nightmares and Daydreams (TLE) 94 #Adept 1 #Adept 2
+1 Northern Air Temple (TLA) 111 #Shrines
+1 Nyla, Shirshu Sleuth (TLE) 109 #Bounty Hunter 1 #Bounty Hunter 2
+1 Obsessive Pursuit (TLA) 112 #Bounty Hunter 2
+1 Octopus Form (TLA) 66 #Adept 2 #Katara #Lessons 1 #Lessons 2 #Librarian #Soaring 2 #Spirit #Underwater
+1 Origin of Metalbending (TLA) 187 #At The Zoo #Bumi #Earth Kingdom 2 #Earth-Rumble 2 #Learning 1 #Toph
+1 Ostrich-Horse (TLA) 188 #At The Zoo
+1 Otter-Penguin (TLA) 67 #Wise 1 #Wise 2
+1 Overwhelming Victory (TLE) 123 #Rebelling 2 #Sparky Sparky 2
+1 Ozai's Cruelty (TLA) 113 #Bad Advice #Ozai
+1 Path to Redemption (TLA) 31 #Aang #Airbending #Alliance 1 #Freedom Fighters #Gliding 1 #Gliding 2 #Hei Bai 1 #Hei Bai 2 #Insurgent 2 #Warriors
+1 Pillar Launch (TLA) 189 #At The Zoo #Earth-Rumble 1
+1 Pipsqueak, Rebel Strongarm (TLE) 82 #Freedom Fighters
+1 Pirate Peddlers (TLA) 115 #Bounty Hunter 1 #Bounty Hunter 2 #Nightmares #Relentless 1
+1 Platypus-Bear (TLA) 236 #Learning 2 #Lessons 1 #Lessons 2
+1 Pretending Poxbearers (TLA) 237 #Bounty Hunter 1 #Bounty Hunter 2 #Hei Bai 1 #Hei Bai 2 #Nightmares #Siege Engines
+1 Price of Freedom (TLA) 149 #Sparky Sparky 2
+1 Princess Yue (TLE) 95 #Adaptive
+1 Professor Zei, Anthropologist (TLA) 238 #Adept 1 #Adept 2 #Librarian
+1 Purple Pentapus (TLE) 233 #Bounty Hunter 1 #Hunting 1 #Nightmares #Relentless 1
+1 Rabaroo Troop (TLA) 32 #Airbending #Freedom Fighters #Gliding 1 #Hei Bai 1 #Hei Bai 2 #Warriors
+1 Ran and Shaw (TLA) 150 #Sparky Sparky 1 #Sparky Sparky 2
+1 Raucous Audience (TLA) 190 #Bumi #Earth-Rumble 1 #Earth-Rumble 2 #Kyoshi #Shrines
+1 Raven Eagle (TLA) 116 #Hunting 1 #Hunting 2
+1 Razor Rings (TLA) 33 #Alliance 2 #Insurgent 1 #Swordmaster
+1 Rebellious Captives (TLA) 191 #Earthbending 1 #Earthbending 2 #Earth-Rumble 1 #Learning 1 #Toph
+1 Reckless Blaze (TLE) 124 #Firebending 1 #Firebending 2 #Wipes
+1 Rocky Rebuke (TLA) 193 #Bumi #Cabbages #Earthbending 1 #Earthbending 2 #Kyoshi #Learning 1 #Learning 2 #Toph
+1 Roku's Mastery (TLE) 243 #Firebending 1 #Roku
+1 Rough Rhino Cavalry (TLA) 152 #Firebending 2 #Musicians #Powerful 1
+1 Rowdy Snowballers (TLA) 68 #Adaptive #Katara #Underwater #Wise 1 #Wise 2
+1 Ruinous Waterbending (TLA) 118 #Nightmares
+1 Rumble Arena (TLA) 277 #Earthbending 1 #Earthbending 2
+1 Run Amok (TLE) 258 #Rebelling 2
+1 Ruthless Waterbender (TLE) 110 #Hunting 2 #Relentless 1
+1 Saber-Tooth Moose-Lion (TLA) 194 #At The Zoo #Cabbages #Learning 1 #Learning 2 #Shrines #Toph
+1 Sandbenders' Storm (TLA) 34 #Hei Bai 1
+1 Scarring Memories (TLE) 111 #Ozai
+1 Secret Tunnel (TLA) 278 #Musicians
+1 Serpent of the Pass (TLA) 70 #Adept 1 #Adept 2 #Underwater
+1 Shared Roots (TLA) 196 #Learning 1 #Ramp
+1 Smellerbee, Rebel Fighter (TLE) 125 #Rebelling 1 #Rebelling 2
+1 Sokka, Lateral Strategist (TLA) 241 #Alliance 1 #Alliance 2 #Insurgent 2 #Katara #Soaring 1 #Soaring 2 #Warriors #Wise 2
+1 Sokka, Swordmaster (TLE) 83 #Swordmaster
+1 Sokka's Haiku (TLA) 71 #Katara #Soaring 1 #Wise 2
+1 Sokka's Sword Training (TLE) 84 #Alliance 1 #Hei Bai 2 #Swordmaster #Warriors
+1 Sold Out (TLA) 119 #Azula #Bad Advice #Bounty Hunter 1 #Bounty Hunter 2 #Relentless 1
+1 Solid Ground (TLE) 142 #Earthbending 2 #Toph
+1 South Pole Voyager (TLA) 35 #Alliance 1 #Alliance 2
+1 Southern Air Temple (TLA) 36 #Shrines
+1 Sparring Dummy (TLA) 197 #Learning 1 #Learning 2
+1 Stand United (TLE) 149 #Earth Kingdom 1 #Insurgent 1 #Insurgent 2
+1 Storm of Memories (TLE) 126 #Fire Nation
+1 Suki, Courageous Rescuer (TLA) 37 #Hei Bai 1 #Hei Bai 2
+1 Suki, Kyoshi Captain (TLE) 85 #Warriors
+1 Suki, Kyoshi Warrior (TLA) 243 #Alliance 1 #Alliance 2 #Earth Kingdom 1 #Earth Kingdom 2 #Kyoshi
+1 Suspicious Bookcase (TLE) 170 #Librarian
+1 Swampsnare Trap (TLA) 120 #Hunting 2
+1 Tale of Katara and Toph (TLE) 143 #Earthbending 2 #Toph
+1 Tale of Momo (TLE) 86 #Gliding 2 #Insurgent 1
+1 Team Avatar (TLA) 38 #Warriors
+1 Tectonic Split (TLE) 144 #Kyoshi
+1 Teo, Spirited Glider (TLA) 74 #Adaptive #Adept 2 #Soaring 1 #Soaring 2
+1 That's Rough Buddy (TLE) 87 #Hei Bai 1 #Hei Bai 2 #Insurgent 2
+1 The Art of Tea (TLE) 129 #Cabbages #Learning 2
+1 The Blue Spirit (TLE) 90 #Adaptive #Draw #Wise 2
+1 The Boulder, Ready to Rumble (TLA) 168 #Earth-Rumble 1 #Earth-Rumble 2
+1 The Cabbage Merchant (TLE) 134 #Cabbages
+1 The Cave of Two Lovers (TLA) 126 #Musicians
+1 The Duke, Rebel Sentry (TLE) 76 #Alliance 1 #Alliance 2 #Freedom Fighters
+1 The Earth King (TLA) 172 #Earth-Rumble 2
+1 The Fire Nation Drill (TLA) 98 #Siege Engines
+1 The Mechanist, Aerial Artisan (TLA) 64 #Soaring 1
+1 The Spirit Oasis (TLA) 72 #Shrines #Spirit
+1 Thriving Bluff (TLE) 260 #Fire Nation #Firebending 1 #Firebending 2 #Iroh #Musicians #Powerful 1 #Powerful 2 #Rebelling 1 #Rebelling 2 #Roku #Sparky Sparky 1 #Sparky Sparky 2 #Zuko
+1 Thriving Grove (TLE) 261 #At The Zoo #Bumi #Cabbages #Earth Kingdom 1 #Earth Kingdom 2 #Earthbending 1 #Earthbending 2 #Earth-Rumble 1 #Earth-Rumble 2 #Kyoshi #Learning 1 #Learning 2 #Shrines #Toph
+1 Thriving Heath (TLE) 262 #Aang #Airbending #Alliance 1 #Alliance 2 #Freedom Fighters #Gliding 1 #Gliding 2 #Hei Bai 1 #Hei Bai 2 #Insurgent 1 #Insurgent 2 #Swordmaster #Warriors
+1 Thriving Isle (TLE) 263 #Adaptive #Adept 1 #Adept 2 #Katara #Lessons 1 #Lessons 2 #Librarian #Soaring 1 #Soaring 2 #Spirit #Underwater #Wise 1 #Wise 2
+1 Thriving Moor (TLE) 264 #Azula #Bad Advice #Bounty Hunter 1 #Bounty Hunter 2 #Hunting 1 #Hunting 2 #Nightmares #Ozai #Reinforced 1 #Reinforced 2 #Relentless 1 #Relentless 2 #Siege Engines
+1 Tiger-Dillo (TLA) 155 #Iroh #Powerful 1 #Powerful 2
+1 Tiger-Seal (TLA) 75 #Wise 2
+1 Toph, Earthbending Master (TLE) 145 #Toph
+1 Toph, the Blind Bandit (TLA) 198 #Earth Kingdom 1 #Earth Kingdom 2 #Earthbending 1 #Earthbending 2 #Earth-Rumble 1
+1 Toucan-Puffin (TLE) 88 #Freedom Fighters #Gliding 1 #Warriors
+1 Treetop Freedom Fighters (TLA) 156 #Rebelling 1 #Rebelling 2
+1 True Ancestry (TLA) 199 #Learning 2
+1 Trusty Boomerang (TLA) 260 #Swordmaster
+1 Tui and La, Moon and Ocean (TLE) 96 #Underwater
+1 Tundra Tank (TLA) 121 #Siege Engines
+1 Turtle-Duck (TLA) 200 #At The Zoo #Earthbending 1
+1 Turtle-Seals (TLE) 226 #Adept 1 #Katara #Underwater #Wise 1 #Wise 2
+1 Twin Blades (TLA) 157 #Powerful 1
+1 Ty Lee, Artful Acrobat (TLA) 158 #Fire Nation #Musicians
+1 Unagi's Spray (TLE) 97 #Adept 1 #Underwater
+1 Uncle Iroh (TLA) 248 #Earth-Rumble 1 #Earth-Rumble 2 #Learning 2 #Powerful 1 #Powerful 2
+1 Unlucky Cabbage Merchant (TLA) 201 #Cabbages
+1 Valorous Stance (TLE) 154 #Freedom Fighters #Warriors
+1 Vengeful Villagers (TLA) 40 #Hei Bai 1
+1 Walltop Sentries (TLA) 202 #Bumi #Earth Kingdom 2 #Learning 1 #Learning 2 #Shrines
+1 Wan Shi Tong, All-Knowing (TLE) 98 #Librarian
+1 Wandering Musicians (TLA) 250 #Freedom Fighters #Musicians
+1 War Balloon (TLA) 159 #Sparky Sparky 1 #Sparky Sparky 2 #Zuko
+1 Water Tribe Captain (TLA) 41 #Aang #Gliding 2
+1 Waterbender's Restoration (TLE) 99 #Wise 1
+1 Waterbending Lesson (TLA) 80 #Adaptive #Adept 1 #Adept 2 #Lessons 2 #Librarian #Wise 1
+1 Watery Grasp (TLA) 82 #Katara #Soaring 1 #Soaring 2
+1 Whirlwind Technique (TLE) 100 #Lessons 1 #Lessons 2 #Wise 1 #Wise 2
+1 White Lotus Hideout (TLA) 281 #Roku #Shrines #Underwater
+1 Yip Yip! (TLA) 43 #Gliding 1 #Gliding 2
+1 Yue, the Moon Spirit (TLA) 83 #Soaring 2
+1 Yuyan Archers (TLA) 161 #Firebending 2 #Rebelling 1 #Roku #Sparky Sparky 2 #Zuko
+1 Zhao, Ruthless Admiral (TLA) 252 #Bounty Hunter 2 #Ozai #Relentless 2
+1 Zuko, Exiled Prince (TLA) 163 #Draw #Firebending 1 #Firebending 2 #Sparky Sparky 1 #Sparky Sparky 2
+1 Zuko, Firebending Master (TLE) 127 #Zuko
+1 Zuko, Seeking Honor (TLE) 150 #Fire Nation #Iroh #Rebelling 1 #Rebelling 2 #Reinforced 1 #Reinforced 2
+1 Zuko's Conviction (TLA) 123 #Bounty Hunter 1 #Nightmares
+1 Zuko's Exile (TLA) 3 #Learning 1 #Learning 2 #Librarian
+2 Forest (TLA) 286 #Shrines
+1 Mountain (TLA) 285 #Shrines
+1 Island (TLA) 283 #Shrines
+1 Plains (TLA) 282 #Shrines
+1 Swamp (TLA) 284 #Shrines
+6 Mountain (TLA) 285 #Musicians
