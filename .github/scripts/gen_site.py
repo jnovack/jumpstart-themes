@@ -29,8 +29,8 @@ SET_META: dict[str, tuple[str, str]] = {
         "The Last Airbender Jumpstart expansion — air, water, earth, and fire themes.",
     ),
     "jmsh": (
-        "Avatar: The Last Airbender",
-        "The Last Airbender Jumpstart expansion — air, water, earth, and fire themes.",
+        "Marvel Super Heroes",
+        "Bringing some of the biggest names in Marvel to Magic.",
     ),
 }
 
@@ -175,11 +175,11 @@ def generate_html(sets: list[dict], version: str, repo: str) -> str:
 <header class="hero py-5 mb-5">
   <div class="container text-center">
     <h1 class="display-5 fw-bold mb-2">
-      <i class="fa-solid fa-tags me-3 text-primary"></i>Jumpstart Decklist Labels{version_badge}
+      <i class="fa-solid fa-tags me-3 text-primary"></i>Jumpstart Decklist Labels
     </h1>
     <p class="lead text-secondary mb-4">
       Thermal-printer-ready labels for Magic: The Gathering Jumpstart theme decks.<br>
-      Print to a Phomemo&nbsp;M220 via Bluetooth or any CUPS thermal printer.
+      <small>Print individually to a PEDOOLO 482BT via Bluetooth or any CUPS thermal printer.</small>
     </p>
     <div class="d-flex justify-content-center gap-3 flex-wrap">
       <a href="{repo_url}" class="btn btn-outline-secondary">
