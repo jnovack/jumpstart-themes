@@ -28,6 +28,10 @@ SET_META: dict[str, tuple[str, str]] = {
         "Avatar: The Last Airbender",
         "The Last Airbender Jumpstart expansion — air, water, earth, and fire themes.",
     ),
+    "jmsh": (
+        "Avatar: The Last Airbender",
+        "The Last Airbender Jumpstart expansion — air, water, earth, and fire themes.",
+    ),
 }
 
 # Fallback for sets not listed above

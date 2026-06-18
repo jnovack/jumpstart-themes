@@ -2,7 +2,7 @@
 
 ## gen_jumpstart.py
 
-Generates a jumpstart card-list file (e.g. `assets/jmsc.txt`) from a directory of theme deck lists.
+Generates a jumpstart card-list file (e.g. `assets/jmsh.txt`) from a directory of theme deck lists.
 
 Each theme file in the input directory is read, card names are resolved against an Elasticsearch `cards` index to find the set code and collector number, and the results are written in the format used by `assets/jtla.txt`.
 
@@ -20,18 +20,18 @@ python3 scripts/gen_jumpstart.py <themes_dir> [--sets SET,...] [--es-url URL] [-
 
 | Argument | Default | Description |
 | --- | --- | --- |
-| `themes_dir` | _(required)_ | Directory of theme `.txt` files (e.g. `internal/themes/msc`) |
+| `themes_dir` | _(required)_ | Directory of theme `.txt` files (e.g. `internal/themes/jmsh`) |
 | `--sets` | themes dir name | Comma-separated ES set codes to search (e.g. `msc,msh`) |
 | `--es-url` | `http://elasticsearch:9200` | Elasticsearch base URL |
 | `--output` | `assets/j<dirname>.txt` | Output file path |
 
 ### Examples
 
-Generate `assets/jmsc.txt` from the MSC Commander themes, searching both the
+Generate `assets/jmsh.txt` from the MSC Commander themes, searching both the
 MSC and MSH sets:
 
 ```bash
-python3 scripts/gen_jumpstart.py internal/themes/msc --sets msc,msh
+python3 scripts/gen_jumpstart.py internal/themes/jmsh --sets msc,msh
 ```
 
 Generate `assets/jtla.txt` from the TLA themes, searching TLA and TLE:
@@ -43,7 +43,7 @@ python3 scripts/gen_jumpstart.py internal/themes/tla --sets tla,tle
 Write to a custom path:
 
 ```bash
-python3 scripts/gen_jumpstart.py internal/themes/msc --sets msc,msh --output /tmp/preview.txt
+python3 scripts/gen_jumpstart.py internal/themes/jmsh --sets msc,msh --output /tmp/preview.txt
 ```
 
 ### Output format

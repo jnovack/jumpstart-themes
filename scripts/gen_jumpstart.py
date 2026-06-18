@@ -3,9 +3,9 @@
 Generate a jumpstart card list from a themes directory.
 
 Usage:
-    python3 scripts/gen_jumpstart.py internal/themes/msc --sets msc,msh
+    python3 scripts/gen_jumpstart.py internal/themes/jmsh --sets msc,msh
 
-Output is written to assets/j{dirname}.txt relative to the repo root, or to
+Output is written to assets/{dirname}.txt relative to the repo root, or to
 the path given by --output.
 """
 
@@ -172,7 +172,7 @@ def main():
     parser.add_argument(
         "themes_dir",
         type=Path,
-        help="Directory of theme .txt files (e.g. internal/themes/msc)",
+        help="Directory of theme .txt files (e.g. internal/themes/jmsh)",
     )
     parser.add_argument(
         "--sets",
@@ -190,7 +190,7 @@ def main():
     parser.add_argument(
         "--output",
         type=Path,
-        help="Output file path (default: assets/j{dirname}.txt relative to repo root)",
+        help="Output file path (default: assets/{dirname}.txt relative to repo root)",
     )
     args = parser.parse_args()
 
