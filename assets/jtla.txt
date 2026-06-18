@@ -323,13 +323,13 @@
 7 Forest (TLA) 286 #Hei Bai 1
 7 Forest (TLA) 286 #Hei Bai 2
 7 Forest (TLA) 286 #Kyoshi
+7 Forest (TLA) 286 #Learning 1
+7 Forest (TLA) 286 #Learning 2
 7 Forest (TLA) 286 #Toph
 7 Island (TLA) 283 #Adaptive
 7 Island (TLA) 283 #Adept 1
 7 Island (TLA) 283 #Adept 2
 7 Island (TLA) 283 #Katara
-7 Island (TLA) 283 #Learning 1
-7 Island (TLA) 283 #Learning 2
 7 Island (TLA) 283 #Lessons 1
 7 Island (TLA) 283 #Lessons 2
 7 Island (TLA) 283 #Librarian
@@ -350,7 +350,6 @@
 7 Mountain (TLA) 285 #Relentless 1
 7 Mountain (TLA) 285 #Relentless 2
 7 Mountain (TLA) 285 #Roku
-7 Mountain (TLA) 285 #Siege Engines
 7 Mountain (TLA) 285 #Sparky Sparky 1
 7 Mountain (TLA) 285 #Sparky Sparky 2
 7 Mountain (TLA) 285 #Zuko
@@ -375,3 +374,4 @@
 7 Swamp (TLA) 284 #Hunting 2
 7 Swamp (TLA) 284 #Nightmares
 7 Swamp (TLA) 284 #Ozai
+7 Swamp (TLA) 284 #Siege Engines
