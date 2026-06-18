@@ -1,0 +1,482 @@
+1 A.I.M. Scientists (MSH) 44 #Pym Particles #Tricksters
+1 Abomination, Terrifying Titan (MSH) 198 #Boosted #Incredible
+1 Accelerated Evolution (MSC) 711 #Savage Lands #Tenacious #Uncanny #Wild
+1 Advancing the Spirit (MSC) 712 #Trained
+1 Aerial Doombot (MSH) 43 #Pym Particles #Soaring
+1 Agent 13, Sharon Carter (MSH) 1 #Agents of Shield #Equipped
+1 Agent Phil Coulson (MSH) 4 #Agents of Shield
+1 Agent of Atlas (MSH) 3 #Precise #Squadron
+1 Agents of HYDRA (MSH) 85 #Hydra #Street Level Villains
+1 Agents of S.H.I.E.L.D. (MSH) 5 #Agents of Shield
+1 Alex Wilder, Runaway (MSC) 677 #Runaways
+1 Alien Symbiosis (MSC) 791 #Mayhem
+1 Amazing Spider-Girl (MSC) 583 #Web Slinging
+1 Ant-Man's Air Force (MSC) 759 #Pym Particles #Tricksters
+1 Ant-Man's Army (MSH) 161 #Animal
+1 Ant-Man, Reformed Rogue (MSC) 739 #Geniuses #Pym Particles #Towering
+1 Armed Assailant (MSC) 647 #Armed
+1 Arnim Zola, Bio-Fanatic (MSH) 86 #Hydra #Returned
+1 Asgardian Inspiration (MSC) 678 #Thor
+1 Astonishing Spider-Man (MSC) 740 #Spider Verse
+1 Atlantean Cavalry (MSH) 45 #Atlantis
+1 Atlantean Skirmisher (MSC) 616 #Atlantis
+1 Atlantis Attacks (MSH) 46 #Analyzed #Atlantis
+1 Atlas, Sizable Stooge (MSC) 566 #Rampaging #Thunderbolts #Towering
+1 Attuma, Atlantean Warlord (MSH) 47 #Atlantis
+1 Aunt May (MSC) 768 #Web Slinging
+1 Baron Strucker, HYDRA Overlord (MSH) 88 #Hydra
+1 Baxter Building (MSH) 261 #Fantastic
+1 Beast Mode (MSC) 713 #Animal #Great Lakes Avengers #Rampaging
+1 Beast, Erudite Aerialist (MSH) 206 #Geniuses #Uncanny
+1 Big Bertha (MSC) 714 #Great Lakes Avengers
+1 Big Score (MSC) 802 #Heroes for Hire
+1 Big Wheel (MSC) 679 #Vehicles
+1 Bionic Blow (MSC) 680 #Heroes for Hire
+1 Black Panther, Most Dangerous (MSC) 584 #Wakanda
+1 Black Tom Cassidy (MSC) 715 #Uncanny
+1 Black Widow, Deadly Hunter (MSC) 648 #Lethal
+1 Blazing Crescendo (MSH) 125 #Fearless #Runaways
+1 Blue Marvel, Adam Brashear (MSC) 530 #Geniuses
+1 Blur of Heroism (MSC) 585 #Squadron
+1 Bob, Reluctant HYDRA Agent (MSC) 649 #Hydra
+1 Bold Biochemist (MSH) 48 #Geniuses #Kang Dynasty #Pym Particles
+1 Boomerang, Blade Flinger (MSC) 534 #Masters of Evil
+1 Borough Backup (MSH) 7 #Agents of Shield #Squadron #Wakanda
+1 Brave Brawler (MSH) 8 #Squadron
+1 Brawn, Amadeus Cho (MSC) 567 #Geniuses #Incredible
+1 Bucky Barnes, Eager Ally (MSC) 586 #Equipped
+1 Bullseye, Death Dealer (MSH) 209 #Vehicles
+1 Bushmaster, Coiled Henchman (MSC) 716 #Rampaging
+1 Call Damage Control (MSH) 162 #Tenacious
+1 Captain America's Motorcycle (MSC) 681 #Vehicles
+1 Captain America's Shield (MSH) 244 #Equipped
+1 Captain America, Liberator (MSC) 587 #Equipped
+1 Captain America, Skybound (MSC) 588 #Battalion
+1 Captain Mar-Vell, Space-Born (MSH) 12 #Marvelous
+1 Captain Marvel, Shooting Star (MSC) 589 #Marvelous
+1 Chase Stein, Runaway (MSC) 682 #Runaways
+1 Citizen V, Helmut Zemo (MSC) 650 #Thunderbolts
+1 City Pigeon (MSC) 769 #Counterargument
+1 Claim the Kingdom (MSH) 163 #Rampaging #Wild
+1 Collector's Case (MSC) 617 #Blink #Iron Man
+1 Colleen Wing, Street Samurai (MSH) 13 #Precise
+1 Colossal Collision (MSC) 558 #Rampaging #Towering #Trained #Uncanny #Wild
+1 Colossus, Steel Stalwart (MSC) 717 #Uncanny
+1 Common Crook (MSC) 792 #Doom #Street Level Villains
+1 Commune with Dinosaurs (MSC) 814 #Savage Lands
+1 Contract Hero (MSC) 683 #Heroes for Hire
+1 Costume Closet (MSC) 770 #Counterargument
+1 Count Nefaria (MSC) 651 #Street Level Villains
+1 Criminal Enterprise (MSC) 652 #Street Level Villains
+1 Crimson Cowl, Master of Evil (MSC) 653 #Masters of Evil
+1 Crimson Operative (MSH) 126 #Thor
+1 Crossbones, Malicious Mercenary (MSH) 91 #Hydra
+1 Crossover Collaboration (MSC) 684 #Runaways #Young Avengers
+1 Crowd of True Believers (MSH) 14 #Caretakers
+1 Cruel Alliance (MSH) 92 #Hydra #Masters of Evil #Thunderbolts
+1 Daily Bugle Newspaper (MSC) 749 #Fantastic #Mayhem #Spider Verse
+1 Daily Bugle Reporters (MSC) 771 #Counterargument
+1 Daredevil's Billy Club (MSC) 686 #Fearless
+1 Daredevil, Fearless Fighter (MSC) 685 #Fearless
+1 Dark Deed (MSH) 93 #Hydra #Ultron
+1 Dark Ritual (MSC) 793 #Doom
+1 Darwin, Adaptive Mutant (MSC) 718 #Uncanny
+1 Daughter of the Deep (MSC) 618 #Atlantis
+1 Deadly Dispute (MSC) 794 #Doom #Street Level Villains
+1 Depower (MSH) 50 #Kang Dynasty #Pym Particles
+1 Devil Dinosaur (MSC) 719 #Savage Lands
+1 Dismissive Denial (MSC) 619 #Blink #Conniving #Soaring
+1 Doc Ock's Henchmen (MSC) 784 #Conniving
+1 Doc Ock, Sinister Scientist (MSC) 783 #Conniving
+1 Doc Samson, Super Psychiatrist (MSH) 164 #Incredible
+1 Doctor Doom, Unrivaled (MSC) 654 #Doom
+1 Doctor Jane Foster (MSC) 757 #Caretakers
+1 Doctor Spectrum (MSC) 590 #Squadron
+1 Doctor Strange, Surgeon (MSC) 591 #Caretakers
+1 Donald Blake, Guise of Thor (MSC) 592 #Caretakers
+1 Doom Blade (MSC) 576 #Doom
+1 Doom's Servo-Guards (MSC) 535 #Doom #Returned #Ultron
+1 Doombot Harbinger (MSC) 655 #Doom #Ultron
+1 Doomfall (MSC) 795 #Doom
+1 Doomsday (MSC) 796 #Doom
+1 Doorman (MSC) 720 #Great Lakes Avengers
+1 Echo, Perceptive Prodigy (MSH) 51 #Analyzed
+1 Eerie Gravestone (MSC) 824 #Thunderbolts #Ultron
+1 Elektra, Femme Fatale (MSC) 687 #Fearless
+1 Extremis Elite (MSC) 763 #Boosted #Vehicles
+1 Falcon's Wing Harness (MSH) 53 #Soaring
+1 Falcon, Joaquin Torres (MSC) 593 #Battalion
+1 Falcon, Winged Wonder (MSH) 52 #Soaring
+1 Fall to Earth (MSC) 517 #Battalion #Caretakers #Marvelous #Precise
+1 Fantastic Bounce (MSC) 620 #Fantastic #Geniuses
+1 Farseek (MSC) 173 #Fantastic
+1 Fixer, Techno Terror (MSC) 656 #Thunderbolts
+1 Flash Thompson, Spider-Fan (MSC) 772 #Web Slinging
+1 Flatman (MSC) 721 #Great Lakes Avengers
+1 Flying Drone (MSC) 621 #Soaring
+1 Flying Octobot (MSC) 785 #Conniving
+1 Foggy Nelson, On Retainer (MSC) 594 #Counterargument
+1 Fogwell's Gym (MSC) 754 #Fearless #Spider Verse
+1 Frozen in Ice (MSH) 54 #Analyzed #Atlantis #Geniuses
+1 Futurist Forge (MSH) 55 #Geniuses #Iron Man
+1 Gallant Citizen (MSC) 820 #Web Slinging
+1 General Thunderbolt Ross (MSC) 595 #Battalion
+1 Gert and Old Lace, Runaways (MSC) 568 #Runaways #Savage Lands #Tenacious #Wild
+1 Ghost, Spectral Saboteur (MSH) 214 #Tricksters
+1 Giant Growth (MSH) 167 #Incredible #Towering
+1 Giant-Man, Gargantuan Genius (MSC) 722 #Towering
+1 Giant-Sized Flying Ant (MSH) 56 #Pym Particles
+1 Go Nuts! (MSH) 168 #Animal #Great Lakes Avengers #Incredible #Savage Lands #Uncanny
+1 Goliath, Mass Manipulator (MSC) 766 #Towering
+1 Grapeshot (MSC) 803 #Scarlet
+1 Graviton, Fundamental Force (MSC) 531 #Conniving
+1 Green Goblin, Back for More (MSC) 657 #Mayhem
+1 Grim Reaper's Scythe (MSC) 658 #Returned
+1 Grim Reaper, Lethal Legionnaire (MSH) 98 #Returned
+1 Guerrilla Gorilla (MSH) 169 #Animal #Great Lakes Avengers #Incredible
+1 H.E.R.B.I.E. Scout Unit (MSH) 247 #Fantastic
+1 HULK SMASH! (MSH) 135 #Boosted #Fearless
+1 HYDRA Assault Robot (MSH) 137 #Vehicles
+1 HYDRA Disintegrator (MSC) 660 #Armed #Hydra
+1 HYDRA Infiltration (MSH) 100 #Hydra
+1 HYDRA Troopers (MSH) 101 #Hydra
+1 Hammerhead, Maggia Boss (MSC) 659 #Street Level Villains
+1 Happy Hogan, Bodyguard (MSC) 622 #Iron Man
+1 Hawkeye's Bow (MSH) 132 #Young Avengers
+1 Hawkeye, Bowslinger (MSC) 596 #Precise
+1 Hawkeye, Young Avenger (MSH) 131 #Young Avengers
+1 Helicarrier Strike (MSH) 15 #Agents of Shield #Battalion #Marvelous
+1 Hellcat, Undying Vigilante (MSH) 170 #Tenacious #Wild
+1 Hercules, Prince of Power (MSH) 171 #Trained
+1 Hero in Training (MSH) 16 #Marvelous #Squadron
+1 Heroes for Hire (MSC) 688 #Heroes for Hire
+1 Heroes' Hangout (MSC) 804 #Boosted
+1 Heroic Feast (MSH) 172 #Animal
+1 Heroic Teamwork (MSC) 597 #Battalion #Precise #Squadron #Wakanda
+1 Hex Magic (MSH) 133 #Runaways #Scarlet
+1 Hire a Crew (MSH) 134 #Fearless
+1 Hit-Monkey (MSC) 723 #Wild
+1 Hobgoblin, Mantled Marauder (MSC) 805 #Spider Verse
+1 Hour of Defeat (MSH) 99 #Armed #Lethal #Masters of Evil
+1 Hulk's Thunderclap (MSC) 725 #Incredible
+1 Hulk, Strongest There Is (MSC) 724 #Incredible
+1 Hulkling, Young Avenger (MSC) 689 #Young Avengers
+1 Human Torch, Johnny Storm (MSH) 136 #Boosted #Fantastic
+1 Hydraulic Helper (MSH) 57 #Iron Man
+1 Hyperion's Atomic Vision (MSC) 600 #Squadron
+1 Hyperion, Supreme Hero (MSC) 599 #Squadron
+1 I Am Iron Man (MSH) 58 #Iron Man #Soaring
+1 Iceman and Firestar (MSC) 742 #Spider Verse
+1 Immortus, Master of Eternity (MSC) 623 #Kang Dynasty
+1 Imperial Cosmographer (MSC) 624 #Blink
+1 Impossible Man (MSC) 625 #Tricksters
+1 Infernal Rebirth (MSC) 537 #Hydra #Lethal #Returned
+1 Infinity Formula (MSC) 601 #Caretakers #Equipped
+1 Inner Demons Gangsters (MSC) 797 #Mayhem
+1 Inspired Fire (MSC) 690 #Boosted #Fantastic
+1 Intrepid Ace (MSC) 691 #Vehicles
+1 Invisible Woman, Sue Storm (MSH) 17 #Fantastic
+1 Iron Fist, Hero for Hire (MSC) 692 #Heroes for Hire
+1 Iron Lad, Young Avenger (MSC) 569 #Iron Man #Kang Dynasty #Young Avengers
+1 Iron Man, Bleeding Edge (MSC) 626 #Iron Man
+1 Iron Suitcase (MSC) 750 #Iron Man
+1 Jack of Hearts, Volatile Hero (MSC) 693 #Boosted
+1 Jessica Jones, Private Eye (MSH) 139 #Fearless #Heroes for Hire
+1 Justice, Vance Astrovik (MSH) 61 #Blink #Soaring
+1 K'un-Lun Warrior (MSH) 140 #Heroes for Hire #Thor
+1 Ka-Zar of the Savage Land (MSH) 174 #Savage Lands #Wild
+1 Karolina Dean, Runaway (MSC) 694 #Runaways
+1 Kid Loki (MSH) 63 #Conniving #Geniuses #Tricksters
+1 Kingpin's Enforcers (MSH) 102 #Armed #Street Level Villains
+1 Kingpin, Wilson Fisk (MSC) 661 #Street Level Villains
+1 Klaw, Sonic Subjugator (MSH) 103 #Masters of Evil
+1 Knight of Wundagore (MSH) 175 #Rampaging
+1 Kree Commandos (MSH) 19 #Precise
+1 Kree Sentinel (MSH) 141 #Scarlet #Thor
+1 Lady Spider, Maybelle Reilly (MSC) 695 #Spider Verse
+1 Leader, Super-Genius (MSH) 64 #Conniving
+1 Lightning Bolt (MSC) 806 #Scarlet #Thor
+1 Lightning Strike (MSH) 142 #Speedy #Thor #Young Avengers
+1 Living Lies of Loki (MSC) 627 #Tricksters
+1 Living Lightning, Charged Up (MSC) 764 #Speedy
+1 Loki Laufeyson (MSH) 143 #Scarlet #Thor
+1 Loki, Lord of Misrule (MSC) 628 #Tricksters
+1 Lucky the Pizza Dog (MSC) 726 #Animal
+1 Luke Cage, Hero for Hire (MSC) 696 #Heroes for Hire
+1 Lurking Lizards (MSC) 816 #Savage Lands
+1 MACH-1, Swooping Scoundrel (MSC) 662 #Thunderbolts
+1 MJ, Rising Star (MSC) 773 #Caretakers
+1 Machine Man, Model X-51 (MSC) 751 #Analyzed
+1 Machinesmith Automaton (MSH) 144 #Vehicles
+1 Madame Masque (MSH) 104 #Street Level Villains
+1 Marvel Boy, Noh-Varr (MSC) 743 #Boosted #Marvelous
+1 Marvelous Melee (MSC) 549 #Heroes for Hire #Runaways #Speedy #Spider Verse #Young Avengers
+1 Masked Meower (MSC) 807 #Speedy #Spider Verse
+1 Matt Murdock, Justice Seeker (MSC) 602 #Counterargument
+1 Minion Missile (MSC) 663 #Returned #Street Level Villains #Ultron
+1 Mist-Cloaked Herald (MSC) 760 #Atlantis
+1 Mister Fantastic, Reed Richards (MSH) 66 #Fantastic
+1 Mister Hyde, Monster Within (MSH) 176 #Rampaging
+1 Mister Immortal (MSC) 727 #Great Lakes Avengers
+1 Misty Knight, Hero for Hire (MSH) 145 #Heroes for Hire
+1 Mjölnir's Might (MSC) 697 #Thor
+1 Mob Lookout (MSC) 821 #Blink #Conniving
+1 Mockingbird, Ace Agent (MSH) 22 #Precise
+1 Mole Man, Moloid Master (MSH) 177 #Wild
+1 Molly Hayes, Runaway (MSC) 698 #Boosted #Runaways
+1 Molten Lavamancer (MSC) 699 #Scarlet #Thor
+1 Moon-Boy, Dino Rider (MSC) 563 #Savage Lands
+1 Moonstone, Harsh Mistress (MSH) 107 #Thunderbolts
+1 Ms. Marvel, Elastic Ally (MSC) 744 #Marvelous #Towering
+1 Multiversal Recruitment (MSC) 629 #Kang Dynasty #Tricksters
+1 Murdock's Crusade (MSH) 24 #Counterargument
+1 Mysterio's Mirage (MSC) 630 #Conniving
+1 Namor, Scourge of the Seas (MSC) 631 #Atlantis
+1 Namora, the Sea Queen (MSC) 632 #Atlantis #Soaring
+1 Nick Fury, Spymaster (MSC) 603 #Agents of Shield
+1 Nico Minoru, Runaway (MSC) 700 #Runaways
+1 Night Nurse, Healer of Heroes (MSH) 26 #Caretakers
+1 Nighthawk, Dark Defender (MSC) 604 #Squadron
+1 Ninja of the Hand (MSH) 108 #Doom #Lethal
+1 Okoye, Dora Milaje Leader (MSH) 27 #Wakanda
+1 Origin of Black Widow (MSC) 664 #Lethal
+1 Origin of Captain America (MSC) 605 #Equipped
+1 Origin of Iron Man (MSC) 633 #Iron Man
+1 Origin of Thor (MSC) 701 #Thor
+1 Origin of the Hulk (MSC) 728 #Incredible
+1 Panther Pounce (MSH) 29 #Precise #Wakanda
+1 Patriot, Young Avenger (MSC) 570 #Equipped #Young Avengers
+1 Peggy Carter, Secret Agent (MSC) 523 #Agents of Shield #Equipped
+1 Pet Avengers (MSH) 178 #Animal #Tenacious #Trained
+1 Pharaoh Rama-Tut (MSC) 634 #Kang Dynasty
+1 Photon, Lady of Light (MSC) 606 #Marvelous
+1 Pick Up the Pace (MSC) 702 #Speedy
+1 Political Triumph (MSH) 31 #Counterargument
+1 Powerful Broker (MSH) 179 #Rampaging
+1 Project Deathlok Soldier (MSH) 109 #Doom #Mayhem #Returned #Ultron
+1 Pumpkin Bombardment (MSC) 822 #Mayhem
+1 Punishing Punch (MSH) 180 #Tenacious #Trained
+1 Pym Particles (MSH) 70 #Pym Particles
+1 Pym Technologies (MSH) 271 #Fantastic
+1 Quake, Agent of S.H.I.E.L.D. (MSH) 32 #Agents of Shield
+1 Quantum Entanglement (MSC) 607 #Marvelous
+1 Quantum Reduction (MSC) 635 #Analyzed #Atlantis #Pym Particles #Tricksters
+1 Quicksilver, Brash Blur (MSH) 148 #Speedy
+1 Quinjet Technician (MSC) 703 #Boosted
+1 Radioactive Man (MSC) 665 #Masters of Evil
+1 Raft Security Officer (MSH) 33 #Marvelous #Precise
+1 Rapid Rescue (MSH) 181 #Great Lakes Avengers #Towering
+1 Red Hulk (MSH) 149 #Heroes for Hire
+1 Red Room Recruit (MSH) 110 #Armed #Lethal #Mayhem
+1 Reed Richards, Smartest Man (MSC) 636 #Geniuses
+1 Reptil, Dinomorpher (MSH) 182 #Savage Lands #Towering
+1 Rescue, Pepper Potts (MSC) 755 #Iron Man #Soaring
+1 Restorative Technique (MSH) 183 #Trained #Wild
+1 Return of the Mole Man (MSC) 729 #Tenacious
+1 Rhino's Rampage (MSC) 823 #Rampaging
+1 Rhino, Terrible Trampler (MSC) 730 #Rampaging
+1 Robot Domination (MSH) 111 #Ultron
+1 Robotics Mastery (MSC) 786 #Pym Particles
+1 Rocket-Powered Goblin Glider (MSC) 825 #Mayhem
+1 Romantic Rendezvous (MSC) 808 #Spider Verse
+1 Ronin, Shadow Stalker (MSH) 112 #Armed
+1 Roxxon Brutes (MSH) 113 #Doom #Mayhem #Thunderbolts
+1 S.H.I.E.L.D. Deployment Drone (MSH) 73 #Blink #Iron Man #Kang Dynasty #Soaring
+1 S.H.I.E.L.D. Helicarrier (MSH) 249 #Agents of Shield #Vehicles
+1 S.H.I.E.L.D. Spy Kit (MSH) 36 #Agents of Shield
+1 Sadistic Slash (MSC) 666 #Mayhem
+1 Sauron, Dino Devotee (MSC) 731 #Savage Lands
+1 Savage Land Dinosaur (MSH) 185 #Animal #Great Lakes Avengers #Incredible #Savage Lands #Tenacious
+1 Savage Lands (MSC) 827 #Savage Lands
+1 Scout the City (MSC) 817 #Animal #Tenacious
+1 Secure Detention (MSC) 608 #Equipped #Wakanda
+1 Selfless Police Captain (MSC) 774 #Counterargument
+1 Serpent Specialist (MSH) 186 #Rampaging #Trained
+1 Shang-Chi, Martial Mentor (MSC) 732 #Trained
+1 She-Hulk, Attorney-at-Law (MSC) 745 #Counterargument #Incredible #Trained
+1 Shi'ar Soldier (MSC) 637 #Blink
+1 Shipwreck Patrol (MSC) 638 #Atlantis #Blink
+1 Shock (MSC) 809 #Runaways
+1 Shuri, Vibranium Technologist (MSC) 746 #Geniuses #Wakanda
+1 Sif's Spearmaster (MSC) 765 #Thor
+1 Silver Surfer, Cosmic Voyager (MSC) 639 #Blink
+1 Sky Cycle (MSC) 704 #Vehicles
+1 Songbird, Sonic Screamer (MSC) 762 #Returned #Thunderbolts
+1 Spaceshift (MSC) 640 #Blink
+1 Spectacular Tactics (MSC) 775 #Web Slinging
+1 Speed, Young Avenger (MSH) 152 #Scarlet #Speedy #Young Avengers
+1 Spider-Gwen, Free Spirit (MSC) 874 #Spider Verse
+1 Spider-Man, New Champion (MSC) 705 #Spider Verse
+1 Spider-Man, Web-Slinger (MSC) 776 #Web Slinging
+1 Spider-Mobile (MSC) 826 #Web Slinging
+1 Spider-Rex, Daring Dino (MSC) 818 #Towering
+1 Spider-UK (MSC) 777 #Web Slinging
+1 Stark Industries Executive (MSH) 153 #Heroes for Hire #Scarlet
+1 Starling, Aerial Ally (MSC) 778 #Counterargument
+1 Stature, Young Avenger (MSC) 571 #Towering #Young Avengers
+1 Stegron the Dinosaur Man (MSC) 810 #Fearless #Spider Verse
+1 Stick, Fearless Mentor (MSC) 706 #Fearless
+1 Stolen Stark Tech (MSH) 114 #Armed #Lethal #Thunderbolts #Ultron
+1 Storm, Shaker of Skies (MSC) 733 #Uncanny
+1 Strategic Intervention (MSC) 609 #Agents of Shield
+1 Stunning Shot (MSC) 610 #Precise
+1 Sudden Strike (MSC) 779 #Precise
+1 Super Intelligence (MSH) 77 #Geniuses
+1 Super Speed (MSH) 154 #Speedy
+1 Super Strength (MSH) 189 #Incredible
+1 Super Suit (MSH) 78 #Pym Particles
+1 Super Villain Lockup (MSH) 37 #Caretakers #Marvelous
+1 Swarm, Being of Bees (MSC) 799 #Mayhem
+1 Swordsman's Steel (MSC) 752 #Armed
+1 Swordsman, Sharp Scoundrel (MSH) 116 #Armed
+1 TVA Bureaucrat (MSC) 761 #Analyzed #Kang Dynasty
+1 Take Up the Shield (MSH) 39 #Caretakers #Equipped
+1 Taxi Driver (MSC) 811 #Fearless #Speedy #Vehicles
+1 Team Tactics (MSH) 155 #Young Avengers
+1 Terramorphic Expanse (MSC) 273 #Fantastic #Tenacious #Wild
+1 Terrific Team-Up (MSC) 819 #Savage Lands #Towering
+1 The Clone Saga (MSC) 782 #Tricksters
+1 The Fabulous Frog-Man (MSC) 559 #Wild
+1 The Fantastic Four (MSC) 741 #Fantastic
+1 The Howling Commandos (MSC) 598 #Battalion #Equipped
+1 The Masters of Evil (MSH) 105 #Masters of Evil
+1 The Spot's Portal (MSC) 798 #Street Level Villains
+1 The Thanos-Copter (MSC) 753 #Vehicles
+1 The Thing, Ben Grimm (MSH) 190 #Fantastic
+1 The Unbeatable Squirrel Girl (MSH) 193 #Great Lakes Avengers
+1 The Vision and Scarlet Witch (MSC) 707 #Scarlet
+1 The Whizzer, Classic Speedster (MSC) 710 #Speedy
+1 Thing Swing (MSC) 564 #Fantastic
+1 Think Twice (MSC) 787 #Kang Dynasty
+1 Thor, Asgard's Avenger (MSC) 756 #Thor
+1 Thriving Bluff (MSC) 578 #Boosted #Fearless #Heroes for Hire #Runaways #Scarlet #Speedy #Spider Verse #Thor #Vehicles #Young Avengers
+1 Thriving Grove (MSC) 579 #Animal #Fantastic #Great Lakes Avengers #Incredible #Rampaging #Savage Lands #Tenacious #Towering #Trained #Uncanny #Wild
+1 Thriving Heath (MSC) 580 #Agents of Shield #Battalion #Caretakers #Counterargument #Equipped #Marvelous #Precise #Squadron #Wakanda #Web Slinging
+1 Thriving Isle (MSC) 581 #Analyzed #Atlantis #Blink #Conniving #Geniuses #Iron Man #Kang Dynasty #Pym Particles #Soaring #Tricksters
+1 Thriving Moor (MSC) 582 #Armed #Doom #Hydra #Lethal #Masters of Evil #Mayhem #Returned #Street Level Villains #Thunderbolts #Ultron
+1 Thwip! (MSC) 780 #Web Slinging
+1 Tiger Shark, Abyssal Hunter (MSC) 747 #Conniving #Masters of Evil
+1 Tigra, Feline Fury (MSH) 191 #Animal
+1 Time Warp (MSC) 788 #Kang Dynasty
+1 Timeline Inquiry (MSC) 641 #Analyzed #Kang Dynasty
+1 Tippy-Toe, Terrific Partner (MSC) 734 #Animal #Great Lakes Avengers
+1 Titania, Rugged Rumbler (MSH) 235 #Masters of Evil #Rampaging
+1 Titanium Man (MSC) 667 #Lethal
+1 Tombstone, Career Criminal (MSC) 160 #Street Level Villains
+1 Too Evil to Stay Dead (MSH) 118 #Returned
+1 Training Regimen (MSH) 192 #Great Lakes Avengers #Uncanny
+1 Trickster's Stratagem (MSH) 81 #Conniving #Tricksters
+1 Truck Toss (MSH) 157 #Vehicles
+1 U.S.Agent, John Walker (MSH) 236 #Armed #Battalion #Equipped
+1 Ultimate Alliance (MSC) 611 #Battalion #Wakanda
+1 Ultimo, Civilization's End (MSC) 540 #Returned
+1 Ultron Drone (MSH) 253 #Ultron
+1 Ultron the Annihilator (MSC) 668 #Ultron
+1 Ultron's Auxiliary (MSC) 669 #Ultron
+1 Undead Hand Ninja (MSC) 670 #Returned
+1 Undercover Skrull (MSH) 194 #Tenacious #Trained
+1 Unliving Legionnaire (MSH) 119 #Returned
+1 Unlucky Witness (MSC) 812 #Fearless
+1 Unstable Experiment (MSC) 789 #Atlantis #Conniving
+1 Valentina Allegra de Fontaine (MSC) 671 #Thunderbolts
+1 Valkyrior Skyrider (MSC) 525 #Caretakers #Precise
+1 Vault Guardsman (MSC) 612 #Counterargument #Web Slinging
+1 Venom, Evil Unleashed (MSC) 800 #Lethal
+1 Venomized Cat (MSC) 801 #Lethal
+1 Vibranium Energy Daggers (MSH) 254 #Wakanda
+1 Victor Mancha, Runaway (MSC) 574 #Analyzed #Runaways #Ultron
+1 Victor Timely, Wily Tycoon (MSC) 642 #Blink #Kang Dynasty
+1 Villainous Hideout (MSH) 276 #Conniving
+1 Villainous Syndication (MSC) 672 #Masters of Evil
+1 Viper, Cruel Conspirator (MSC) 673 #Hydra
+1 Virtual Assistant (MSC) 643 #Analyzed
+1 Virtuous Variant (MSC) 758 #Caretakers #Web Slinging
+1 Vision of Love (MSH) 158 #Boosted #Scarlet
+1 Vision, Spectral Synthezoid (MSC) 644 #Analyzed
+1 Visions of Villainy (MSH) 120 #Masters of Evil
+1 Viv Vision, Teen Synthezoid (MSH) 256 #Analyzed
+1 Void Helix (MSC) 674 #Thunderbolts
+1 Volcanic Villain (MSH) 159 #Speedy
+1 Voltaic Whip (MSC) 675 #Armed
+1 Voracious Brood (MSC) 735 #Tenacious
+1 Vulture, Feathered Fiend (MSC) 645 #Soaring
+1 Wakandan Drone Flock (MSH) 40 #Wakanda
+1 Wakandan Royal Guard (MSH) 195 #Trained
+1 Wakandan Shield Guard (MSC) 613 #Battalion #Marvelous #Wakanda
+1 Wakandan Tusker (MSC) 748 #Animal #Wakanda
+1 Wall Off (MSC) 614 #Fantastic
+1 Wanda's Vision (MSC) 708 #Scarlet
+1 War Machine, James Rhodes (MSC) 572 #Battalion #Iron Man
+1 Wasp, Shrinking Savior (MSC) 646 #Pym Particles
+1 We Say Thee Nay! (MSH) 82 #Analyzed #Blink #Tricksters
+1 Web Up (MSH) 41 #Agents of Shield #Counterargument #Squadron #Web Slinging
+1 Whiplash, Vengeful Engineer (MSH) 121 #Armed
+1 Whirlwind, Killer Cyclone (MSC) 709 #Speedy
+1 White Tiger, Amulet Keeper (MSC) 736 #Tenacious #Wild
+1 White Tiger, Ava Ayala (MSH) 196 #Trained
+1 White Widow, Yelena Belova (MSC) 676 #Lethal
+1 Whoosh! (MSC) 790 #Soaring
+1 Wiccan, Young Avenger (MSC) 557 #Scarlet #Young Avengers
+1 Widow's Bite (MSH) 122 #Lethal
+1 Wild Pack Squad (MSC) 781 #Battalion
+1 Wisecrack (MSC) 813 #Spider Verse
+1 Wolfsbane, Highland Hero (MSC) 767 #Uncanny
+1 Wolverine, Claws Out (MSC) 737 #Uncanny
+1 Wonder Man, Hollywood Hero (MSH) 160 #Boosted
+1 X-23, Deadly Weapon (MSC) 738 #Uncanny
+1 Yellowjacket, Heartless Marauder (MSH) 123 #Masters of Evil #Mayhem
+1 Zarda, the Power Princess (MSC) 615 #Squadron
+1 Forest (MSH) 285 #Fantastic
+1 Island (MSH) 279 #Fantastic
+1 Mountain (MSH) 283 #Fantastic
+1 Plains (MSH) 277 #Fantastic
+6 Forest (MSH) 285 #Savage Lands
+6 Forest (MSH) 285 #Tenacious
+6 Island (MSH) 279 #Conniving
+6 Mountain (MSH) 283 #Spider Verse
+7 Forest (MSH) 285 #Animal
+7 Forest (MSH) 285 #Great Lakes Avengers
+7 Forest (MSH) 285 #Incredible
+7 Forest (MSH) 285 #Rampaging
+7 Forest (MSH) 285 #Towering
+7 Forest (MSH) 285 #Trained
+7 Forest (MSH) 285 #Uncanny
+7 Forest (MSH) 285 #Wild
+7 Island (MSH) 279 #Analyzed
+7 Island (MSH) 279 #Atlantis
+7 Island (MSH) 279 #Blink
+7 Island (MSH) 279 #Geniuses
+7 Island (MSH) 279 #Iron Man
+7 Island (MSH) 279 #Kang Dynasty
+7 Island (MSH) 279 #Pym Particles
+7 Island (MSH) 279 #Soaring
+7 Island (MSH) 279 #Tricksters
+7 Mountain (MSH) 283 #Boosted
+7 Mountain (MSH) 283 #Fearless
+7 Mountain (MSH) 283 #Heroes for Hire
+7 Mountain (MSH) 283 #Runaways
+7 Mountain (MSH) 283 #Scarlet
+7 Mountain (MSH) 283 #Speedy
+7 Mountain (MSH) 283 #Thor
+7 Mountain (MSH) 283 #Vehicles
+7 Mountain (MSH) 283 #Young Avengers
+7 Plains (MSH) 277 #Agents of Shield
+7 Plains (MSH) 277 #Battalion
+7 Plains (MSH) 277 #Caretakers
+7 Plains (MSH) 277 #Counterargument
+7 Plains (MSH) 277 #Equipped
+7 Plains (MSH) 277 #Marvelous
+7 Plains (MSH) 277 #Precise
+7 Plains (MSH) 277 #Squadron
+7 Plains (MSH) 277 #Wakanda
+7 Plains (MSH) 277 #Web Slinging
+7 Swamp (MSH) 281 #Armed
+7 Swamp (MSH) 281 #Doom
+7 Swamp (MSH) 281 #Hydra
+7 Swamp (MSH) 281 #Lethal
+7 Swamp (MSH) 281 #Masters of Evil
+7 Swamp (MSH) 281 #Mayhem
+7 Swamp (MSH) 281 #Returned
+7 Swamp (MSH) 281 #Street Level Villains
+7 Swamp (MSH) 281 #Thunderbolts
+7 Swamp (MSH) 281 #Ultron
