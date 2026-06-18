@@ -106,11 +106,11 @@ def set_card(s: dict) -> str:
               </div>
             </div>
             <div class="card-footer p-0 border-top">
-              <iframe src="{pdf}#toolbar=0&navpanes=0&scrollbar=0&view=FitH"
+              <!-- <iframe src="{pdf}#toolbar=0&navpanes=0&scrollbar=0&view=FitH"
                       class="w-100 rounded-bottom"
                       style="height:420px;border:none;display:block"
                       title="{code} letter pages"
-                      loading="lazy"></iframe>
+                      loading="lazy"></iframe> -->
             </div>
           </div>
         </div>""")
